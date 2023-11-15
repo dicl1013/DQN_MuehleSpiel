@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="h-ka Logos">
+    <file>Ressourcen/HKA_Logo_Gesamt-h_RGB.svg</file>
+    <file>Ressourcen/favicon.ico</file>
+  </qresource>
+  <qresource prefix="Spielfeld">
+    <file alias="Spielstein_Rot_Hell">Ressourcen/Spielstein_Rot_Hell_durchsichtig.png</file>
+    <file alias="Spielstein_Blau_Hell">Ressourcen/Spielstein_Blau_Hell_durchsichtig.png</file>
+    <file alias="Spielstein_Blau">Ressourcen/Spielstein_Blau_durchsichtig.png</file>
+    <file alias="Spielstein_Rot">Ressourcen/Spielstein_Rot_durchsichtig.png</file>
+    <file>Ressourcen/860px-Nine_Men's_Morris_board - grau.png</file>
+    <file>Ressourcen/860px-Nine_Men's_Morris_board.png</file>
+  </qresource>
+</RCC>
